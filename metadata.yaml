@@ -1,0 +1,28 @@
+_repo: The-White-Flag_59823
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ralph, Lester
+    gutenberg_agent_id: '4488'
+    url: http://www.gutenberg.org/2009/agents/4488
+creator:
+  author:
+    agent_name: Stratton-Porter, Gene
+    birthdate: 1863
+    deathdate: 1924
+    gutenberg_agent_id: '71'
+    url: http://www.gutenberg.org/2009/agents/71
+    wikipedia: http://en.wikipedia.org/wiki/Gene_Stratton_Porter
+description: ''
+gutenberg_issued: '2019-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The White Flag
+url: http://www.gutenberg.org/ebooks/59823
